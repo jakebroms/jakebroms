@@ -37,7 +37,7 @@ Every part has a letter. Pencil the letter on each piece as soon as you cut it.
 | F | Hinge block, PT 2x4 | 3 | 8 in. | leftover from board #1 |
 | G | Prop stick, PT 2x4 | 1 | 30 in. | leftover from board #2 |
 | H | Roof panel, Suntuf | 2 | about 59-1/2 in. (measure in step 12) | 26 in. x 6 ft panels |
-| I | Rubber flap, EPDM | 1 | 10 x 50 in. | EPDM sheet |
+| I | Rubber flap, EPDM | 1 | 10 x 50 in. flap + two 4 x 60 in. edge strips | EPDM sheet |
 | J | Closure strip | 6 | as is, trim the last ones | 6-pack |
 
 ## Hardware
@@ -97,7 +97,7 @@ Then dig the dirt down so it sits 2–3 in. below the concrete, in a strip about
 
 **You need:** H (uncut)
 
-Lay both panels side by side on the ground, overlapping by one ridge, and measure the width they cover. Subtract 5 in. That's your cross piece (C) length, but no more than 45 in. and no less than 44-1/2 in. If the math comes out under 44-1/2 in., use 44-1/2 in.; the skirts will stick out a hair past the panels, which is fine.
+Lay both panels side by side on the ground, overlapping by one ridge, and measure the width they cover. Subtract 5 in. That's your cross piece (C) length, but no more than 45 in. and no less than 44-1/2 in. With your panels (46-3/4 in. at one ridge) the math comes out under that, so use 44-1/2 in. The panels will stop about 3/8 in. short of each side of the frame, and the rubber edge strips in step 13 cover that gap.
 
 **Why:** plastic panels can't stretch, so you size the frame to the panels instead of the other way around.
 
@@ -175,9 +175,9 @@ Measure from 3/4 in. below the hinge knuckles to 3 in. past the tip of the frame
 
 ### 13. Attach the panels
 
-**You need:** H x2, J x6, Woodtite screws 4
+**You need:** H x2, J x6, Woodtite screws 4, leftover I, screws 3
 
-Lay closure strips across the top and bottom cross pieces. Set the first panel printed side up, then the second, overlapping by one ridge with the overlap facing away from the usual wind. Pre-drill through the tops of the ridges, 1/16 in. bigger than the screw, over every cross piece at every other ridge and at the overlap. Drive the screws until the washer just squishes.
+Cut two 4 x 60 in. strips from the leftover EPDM. Lay one along each side rail so about 1-1/2 in. sits where the panel edge will land, and fold the rest over the skirt top and 1 in. down its outside face. Tack the fold with two or three 1-5/8 in. screws. Then lay closure strips across the top and bottom cross pieces. Set the first panel printed side up, then the second, overlapping by one ridge with the overlap facing away from the usual wind. Pre-drill through the tops of the ridges, 1/16 in. bigger than the screw, over every cross piece at every other ridge and at the overlap. Drive the screws until the washer just squishes.
 
 **Why:** screwing through the ridges keeps the holes above the water, and the oversize holes let the plastic expand in summer heat without cracking.
 
