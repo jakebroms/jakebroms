@@ -9,9 +9,9 @@ A single polycarbonate lid, hinged at the house, lies on the existing sloped con
 | Measurement | Value |
 | --- | --- |
 | Stairwell width, outside edge to outside edge | 47 in. |
-| Length, back of upper concrete to tip | 57 in. |
-| Rise, tip to top at house | about 30 in. |
-| Lid frame, outside | about 48 in. wide x 56 in. long |
+| Length, back of upper concrete to tip | 58 in., ending at the front curb, which sits level with the dirt |
+| Rise, tip to top at house | 17 in. |
+| Lid frame, outside | about 48 in. wide x 57 in. long |
 | Lid with skirts | about 50 in. wide |
 | Panel overhang past tip | about 3 in. |
 
@@ -30,13 +30,13 @@ Every part has a letter. Pencil the letter on each piece as soon as you cut it.
 | Part | What | Qty | Cut to | Cut from |
 | --- | --- | --- | --- | --- |
 | A | Ledger, PT 2x6 | 1 | 47 in. | 2x6 x 4 ft |
-| B | Side rail, PT 2x4 | 2 | 56 in. (confirm in step 2) | 2x4 boards #1 and #2 |
+| B | Side rail, PT 2x4 | 2 | 57 in. (confirm in step 2) | 2x4 boards #1 and #2 |
 | C | Cross piece, PT 2x4 | 4 | 45 in. (confirm in step 3) | 2x4 boards #3 and #4, two from each |
 | D | Skirt, PT 5/4x6 decking | 2 | same as B | 5/4x6 x 12 ft |
 | E | Flap clamp, PT 1x2 | 1 | 47 in. | 1x2 x 4 ft |
 | F | Hinge block, PT 2x4 | 3 | 8 in. | leftover from board #1 |
 | G | Prop stick, PT 2x4 | 1 | 30 in. | leftover from board #2 |
-| H | Roof panel, Suntuf | 2 | about 58-1/2 in. (measure in step 12) | 26 in. x 6 ft panels |
+| H | Roof panel, Suntuf | 2 | about 59-1/2 in. (measure in step 12) | 26 in. x 6 ft panels |
 | I | Rubber flap, EPDM | 1 | 10 x 50 in. | EPDM sheet |
 | J | Closure strip | 6 | as is, trim the last ones | 6-pack |
 
@@ -53,7 +53,7 @@ Every part has a letter. Pencil the letter on each piece as soon as you cut it.
 | 7 | Barrel bolt | 1 | 17 |
 | 8 | Hook and eye | 1 | 18 |
 | 9 | Dome bumper | 2 | 18 |
-| 10 | EPDM weatherstrip, 10 ft | 1 roll | 8 |
+| 10 | EPDM weatherstrip, 10 ft | 2 rolls | 8 |
 | 11 | Roof and flashing sealant | 2 tubes | 10, 14 |
 
 ![Lid frame from above, before the panels, with a hinge detail](lid-frame.svg)
@@ -83,13 +83,15 @@ Lay out every board, panel and bag. Tick each one off against the Parts and Hard
 
 **Why:** finding a missing piece now beats finding it halfway through.
 
-### 2. Check and measure the walls
+### 2. Check the walls and clear the dirt
 
-**You need:** a straight 2x4, tape measure
+**You need:** a straight 2x4, tape measure, shovel
 
-Lay the straight 2x4 across both wall tops near the house, in the middle and at the tip. If it rocks, mark the high spot so you can grind it or shim it. Then measure along the top of one wall, from the house wall to the tip, and subtract 1 in. That's your side rail (B) and skirt (D) length: 56 in. if you get 57 in. If it comes out over 65 in., stop and rethink the cut list before cutting.
+Lay the straight 2x4 across both wall tops near the house, in the middle and at the tip. If it rocks, mark the high spot so you can grind it or shim it. Then measure along the top of one wall, from the house wall to the tip, and subtract 1 in. That's your side rail (B) and skirt (D) length: 57 in. if you get 58 in. If it comes out over 65 in., stop and rethink the cut list before cutting.
 
-**Why:** the lid only seals if it touches both walls along their whole length, and every other cut depends on this one number.
+Then dig the dirt down so it sits 2–3 in. below the concrete, in a strip about 12 in. wide outside both side walls and across the front curb, sloped away from the stairwell.
+
+**Why:** the lid only seals if it touches both walls along their whole length, every other cut depends on this one number, and the skirts hang 2 in. below the wall tops, which at the low end is below today's dirt.
 
 ### 3. Measure the panels
 
@@ -135,7 +137,7 @@ Screw a skirt to the outside face of each rail, top edges flush, with a screw ev
 
 **You need:** weatherstrip 10
 
-Wipe the wall tops clean and dry. Stick the weatherstrip along each wall top, about 1/2 in. in from the outside edge, where the rails will land. Do this on a day above 50°F, or warm the concrete with a hair dryer first.
+Wipe the wall tops clean and dry. Stick the weatherstrip along each wall top, about 1/2 in. in from the outside edge, where the rails will land, plus one strip across the front curb just past its inside edge, where the bottom cross piece lands. That's about 13 ft in all, so pick up a second roll. Do this on a day above 50°F, or warm the concrete with a hair dryer first.
 
 **Why:** the adhesive won't grab cold concrete, and this strip is the seal between the lid and the walls.
 
@@ -151,7 +153,7 @@ Set the frame on the walls, skirts outside the concrete, with the house end abou
 
 **You need:** A, Tapcons 1 x4, sealant 11, masonry bit
 
-Hold A against the house wall, centered on the stairwell, top on your mark. Run a bead of sealant on its back. Drill four holes through A and at least 2 in. into the wall: about 6 in. from each end and two evenly between. Drive the Tapcons. If that part of the wall turns out to be siding over wood rather than concrete, stop here: mounting to siding needs flashing, not just screws.
+Scrape the old black tar off the concrete header (the beam over the opening). Hold A against the header, centered on the stairwell, top on your mark. Run a bead of sealant on its back. Drill four holes through A and at least 2 in. into the concrete: about 6 in. from each end and two evenly between, all into the header or the ends of the side walls. Drive the Tapcons. Never drill into the white wood trim above the header.
 
 **Why:** the ledger carries the whole lid, and the sealant behind it stops water running down the wall from getting into the stairwell.
 
@@ -167,7 +169,7 @@ Set the frame back on the walls with its house end 1/4 in. from A. At each hinge
 
 **You need:** H x2, fine-tooth blade
 
-Measure from 3/4 in. below the hinge knuckles to 3 in. past the tip of the frame (about 58-1/2 in.). Clamp each panel between two straight boards and cut it to that length.
+Measure from 3/4 in. below the hinge knuckles to 3 in. past the tip of the frame (about 59-1/2 in.). Clamp each panel between two straight boards and cut it to that length.
 
 **Why:** the gap at the top keeps the panels clear of the knuckles, and the 3 in. overhang drips water past the concrete.
 
