@@ -1,6 +1,6 @@
 # Basement stairwell cover: DIY build plan
 
-Updated October 19, 2026
+Updated October 22, 2026
 
 ## Overview
 
@@ -12,7 +12,7 @@ A single polycarbonate lid, hinged at the house, lies on the existing sloped con
 | Length, back of upper concrete to tip | 57 in. |
 | Rise, tip to top at house | about 30 in. |
 | Lid frame, outside | about 48 in. wide x 56 in. long |
-| Lid with skirts | about 49.5 in. wide |
+| Lid with skirts | about 50 in. wide |
 | Panel overhang past tip | about 3 in. |
 
 The lid opens up toward the house wall. A rubber flap covers the hinge joint, and a drip edge at the tip throws water past the concrete.
@@ -32,8 +32,8 @@ Every part has a letter. Pencil the letter on each piece as soon as you cut it.
 | A | Ledger, PT 2x6 | 1 | 47 in. | 2x6 x 4 ft |
 | B | Side rail, PT 2x4 | 2 | 56 in. (confirm in step 2) | 2x4 boards #1 and #2 |
 | C | Cross piece, PT 2x4 | 4 | 45 in. (confirm in step 3) | 2x4 boards #3 and #4, two from each |
-| D | Skirt, PT 1x6 | 2 | same as B | 1x6 x 12 ft |
-| E | Flap clamp, PT 1x2 | 1 | 47 in. | 1x2 x 8 ft |
+| D | Skirt, PT 5/4x6 decking | 2 | same as B | 5/4x6 x 12 ft |
+| E | Flap clamp, PT 1x2 | 1 | 47 in. | 1x2 x 4 ft |
 | F | Hinge block, PT 2x4 | 3 | 8 in. | leftover from board #1 |
 | G | Prop stick, PT 2x4 | 1 | 30 in. | leftover from board #2 |
 | H | Roof panel, Suntuf | 2 | about 58-1/2 in. (measure in step 12) | 26 in. x 6 ft panels |
@@ -95,7 +95,7 @@ Lay the straight 2x4 across both wall tops near the house, in the middle and at 
 
 **You need:** H (uncut)
 
-Lay both panels side by side on the ground, overlapping by one ridge, and measure the width they cover. Subtract 4-1/2 in. That's your cross piece (C) length, but no more than 45 in. and no less than 44-1/2 in.
+Lay both panels side by side on the ground, overlapping by one ridge, and measure the width they cover. Subtract 5 in. That's your cross piece (C) length, but no more than 45 in. and no less than 44-1/2 in. If the math comes out under 44-1/2 in., use 44-1/2 in.; the skirts will stick out a hair past the panels, which is fine.
 
 **Why:** plastic panels can't stretch, so you size the frame to the panels instead of the other way around.
 
@@ -127,7 +127,7 @@ Pick one end as the house end. Set the three blocks on edge inside the frame, ti
 
 **You need:** D x2, screws 3
 
-Screw a skirt to the outside face of each rail, top edges flush, with 1-5/8 in. screws every 8 in.
+Screw a skirt to the outside face of each rail, top edges flush, with a screw every 8 in.: 2 in. exterior screws if you picked some up, otherwise the 1-5/8 in. ones. Pre-drill within 2 in. of the ends so the decking doesn't split.
 
 **Why:** the skirts hang past the edge of the concrete so wind-driven rain can't blow in sideways under the lid.
 
