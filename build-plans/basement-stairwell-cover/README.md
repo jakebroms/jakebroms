@@ -11,8 +11,8 @@ A single polycarbonate lid, hinged at the house, lies on the existing sloped con
 | Stairwell width, outside edge to outside edge | 47 in. |
 | Length, back of upper concrete to tip | 58 in., ending at the front curb, which sits level with the dirt |
 | Rise, tip to top at house | 17 in. |
-| Lid frame, outside | about 48 in. wide x 57 in. long |
-| Lid with skirts | about 50 in. wide |
+| Lid frame, outside | about 47-1/2 in. wide x 57 in. long |
+| Lid with skirts | about 49-1/2 in. wide |
 | Panel overhang past tip | about 3 in. |
 
 The lid opens up toward the house wall. A rubber flap covers the hinge joint, and a drip edge at the tip throws water past the concrete.
@@ -31,11 +31,11 @@ Every part has a letter. Pencil the letter on each piece as soon as you cut it.
 | --- | --- | --- | --- | --- |
 | A | Ledger, PT 2x6 | 1 | 47 in. long, ripped to about 3-3/4 in. (step 10) | 2x6 x 4 ft |
 | B | Side rail, PT 2x4 | 2 | 57 in. (confirm in step 2) | 2x4 boards #1 and #2 |
-| C | Cross piece, PT 2x4 | 4 | 45 in. (confirm in step 3) | 2x4 boards #3 and #4, two from each |
-| D | Skirt, PT 5/4x6 decking | 2 | same as B | 5/4x6 x 12 ft |
+| C | Cross piece, PT 2x4 | 4 | 44-1/2 in. | 2x4 boards #3 and #4, two from each |
+| D | Skirt, PT 5/4x6 decking | 2 | 57 in. (same as B) | 5/4x6 x 12 ft |
 | E | Flap clamp, PT 1x2 | 1 | 47 in. | 1x2 x 4 ft |
 | F | Hinge block, PT 2x4 | 3 | 8 in. | leftover from board #1 |
-| G | Prop stick, PT 2x4 | 1 | 30 in. | leftover from board #2 |
+| G | Prop stick, PT 2x4 | 1 | about 30 in., trim to fit (step 16) | leftover from board #2 |
 | H | Roof panel, Suntuf | 2 | about 59-1/2 in. (measure in step 12) | 26 in. x 6 ft panels |
 | I | Rubber flap, EPDM | 1 | 10 x 50 in. flap + two 4 x 60 in. edge strips | EPDM sheet |
 | J | Closure strip | 6 | as is, trim the last ones | 6-pack |
