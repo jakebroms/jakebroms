@@ -29,7 +29,7 @@ Every part has a letter. Pencil the letter on each piece as soon as you cut it.
 
 | Part | What | Qty | Cut to | Cut from |
 | --- | --- | --- | --- | --- |
-| A | Ledger, PT 2x6 | 1 | 47 in. | 2x6 x 4 ft |
+| A | Ledger, PT 2x6 | 1 | 47 in. long, ripped to about 3-3/4 in. (step 10) | 2x6 x 4 ft |
 | B | Side rail, PT 2x4 | 2 | 57 in. (confirm in step 2) | 2x4 boards #1 and #2 |
 | C | Cross piece, PT 2x4 | 4 | 45 in. (confirm in step 3) | 2x4 boards #3 and #4, two from each |
 | D | Skirt, PT 5/4x6 decking | 2 | same as B | 5/4x6 x 12 ft |
@@ -145,15 +145,15 @@ Wipe the wall tops clean and dry. Stick the weatherstrip along each wall top, ab
 
 **You need:** the frame, a 2x4 scrap
 
-Set the frame on the walls, skirts outside the concrete, with the house end about 1-3/4 in. from the house wall (hold a scrap of 2x4 flat between them as a spacer). Check that it sits flat and the skirts don't touch the concrete. Mark the house wall at the height of the top of the frame. Lift the frame off.
+Set the frame on the walls, skirts outside the concrete, with the house end about 1-3/4 in. from the house wall (hold a scrap of 2x4 flat between them as a spacer). Check that it sits flat and the skirts don't touch the concrete. Mark the header at the height of the top of the frame, and measure from the wall top up to that mark. Lift the frame off.
 
 **Why:** taking the ledger height from the real frame means the hinges will sit perfectly flat.
 
 ### 10. Mount the ledger
 
-**You need:** A, Tapcons 1 x4, sealant 11, masonry bit
+**You need:** A, Tapcons 1 x4, sealant 11, masonry bit, circular saw
 
-Scrape the old black tar off the concrete header (the beam over the opening). Hold A against the header, centered on the stairwell, top on your mark. Run a bead of sealant on its back. Drill four holes through A and at least 2 in. into the concrete: about 6 in. from each end and two evenly between, all into the header or the ends of the side walls. Drive the Tapcons. Never drill into the white wood trim above the header.
+Scrape the old black tar off the concrete header (the beam over the opening). Rip A lengthwise to the height you measured in step 9 (about 3-3/4 in.). Set it on the wall tops against the header, centered on the stairwell, so its top lines up with your mark. Run a bead of sealant on its back. Drill four holes through A and at least 2 in. into the concrete: about 6 in. from each end and two evenly between, all into the header. Drive the Tapcons. Never drill into the white wood trim above the header.
 
 **Why:** the ledger carries the whole lid, and the sealant behind it stops water running down the wall from getting into the stairwell.
 
@@ -183,11 +183,11 @@ Lay closure strips across the top and bottom cross pieces. Set the first panel p
 
 ### 14. Fit the rubber flap
 
-**You need:** I, E, sealant 11, Tapcons 1 or screws 3
+**You need:** I, E, sealant 11, Tapcons 1 x4
 
-Cut a 10 x 50 in. strip from the EPDM sheet. Run a bead of sealant on the house wall about 2 in. above A, press the flap's top edge into it, and let it drape over the hinges onto the panels by at least 3 in. Clamp the top edge with E: Tapcons into concrete, or 1-5/8 in. screws into wood. Run a last bead of sealant along the top of E.
+Cut a 10 x 50 in. strip from the EPDM sheet. The top of the concrete header is a shelf about 3 in. deep under the siding. Run a bead of sealant along that shelf about 1 in. out from the siding, lay the flap's top edge into it pushed back against the siding, and lay E flat on top. Drill four holes straight down through E and at least 2 in. into the header, about 1 in. out from the siding, and drive the Tapcons. Let the flap drape over the front of the header, over the hinges and onto the panels by at least 3 in. Run a last bead of sealant along the front edge of E.
 
-**Why:** water running down the house wall lands on the flap and is carried over the hinge gap onto the panels instead of into the stairwell.
+**Why:** the header shelf catches everything that runs off the siding, and the flap turns it into a slide that carries that water over the hinge gap onto the panels instead of into the stairwell.
 
 ### 15. Add the handle
 
