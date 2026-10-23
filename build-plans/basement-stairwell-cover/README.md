@@ -29,15 +29,15 @@ Every part has a letter. Pencil the letter on each piece as soon as you cut it.
 
 | Part | What | Qty | Cut to | Cut from |
 | --- | --- | --- | --- | --- |
-| A | Ledger, PT 2x6 | 1 | 47 in. long, ripped to about 3-3/4 in. (step 10) | 2x6 x 4 ft |
+| A | Ledger, PT 2x6 | 1 | 47 in. long, ripped to about 3-3/4 in. (step 10), notched at the hinges (step 11) | 2x6 x 4 ft |
 | B | Side rail, PT 2x4 | 2 | 57 in. (confirm in step 2) | 2x4 boards #1 and #2 |
 | C | Cross piece, PT 2x4 | 4 | 44-1/2 in. | 2x4 boards #3 and #4, two from each |
 | D | Skirt, PT 5/4x6 decking | 2 | 57 in. (same as B) | 5/4x6 x 12 ft |
 | E | Flap clamp, PT 1x2 | 1 | 47 in. | 1x2 x 4 ft |
 | F | Hinge block, PT 2x4 | 3 | 8 in. | leftover from board #1 |
 | G | Prop stick, PT 2x4 | 1 | about 30 in., trim to fit (step 16) | leftover from board #2 |
-| H | Roof panel, Suntuf | 2 | about 59-1/2 in. (measure in step 12) | 26 in. x 6 ft panels |
-| I | Rubber flap, EPDM | 1 | 10 x 50 in. flap + two 4 x 60 in. edge strips | EPDM sheet |
+| H | Roof panel, Suntuf | 2 | about 58-3/4 in. (measure in step 12) | 26 in. x 6 ft panels |
+| I | Rubber flap, EPDM | 1 | 11 x 50 in. flap + two 4 x 60 in. edge strips | EPDM sheet |
 | J | Closure strip | 6 | as is, trim the last ones | 6-pack |
 
 ## Hardware
@@ -159,9 +159,9 @@ Scrape the old black tar off the concrete header (the beam over the opening). Ri
 
 ### 11. Hang the frame · 2 people
 
-**You need:** the frame, hinges 5 x3
+**You need:** the frame, hinges 5 x3, multi-tool, chisel, straightedge
 
-Set the frame back on the walls with its house end 1/4 in. from A. At each hinge block, lay a hinge with its T-leaf flat on top of A, the knuckle over the gap and the strap along the block. Screw it down with the hinge's own screws. Lift the frame and lower it again to check it swings freely and lands back on the weatherstrip.
+Set the frame back on the walls with its house end 1/4 in. from A. Lay a straightedge from the frame top onto A. If A sits higher than the frame (yours is 1 in.), notch A's top above each hinge block: about 5 in. long (the hinge barrel plus 1/4 in. each side), the full 1-1/2 in. front to back, and as deep as the step. Cut a hair shallow, check with the frame pressed down on the weatherstrip, and shave until each notch bottom is within 1/16 in. of the frame top. Chisel out the back of each notch instead of running the blade against the concrete. Then, at each hinge block, lay a hinge with its T-leaf flat on top of A, the knuckle over the gap and the strap along the block. Screw it down with the hinge's own screws. Lift the frame and lower it again to check it swings freely and lands back on the weatherstrip.
 
 **Why:** the bare frame is much easier to handle than the finished lid, and you can still fix the fit before the panels go on.
 
@@ -169,9 +169,9 @@ Set the frame back on the walls with its house end 1/4 in. from A. At each hinge
 
 **You need:** H x2, fine-tooth blade
 
-Measure from 3/4 in. below the hinge knuckles to 3 in. past the tip of the frame (about 59-1/2 in.). Clamp each panel between two straight boards and cut it to that length.
+Measure from 1-1/2 in. below the hinge knuckles to 3 in. past the tip of the frame (about 58-3/4 in.). Clamp each panel between two straight boards and cut it to that length.
 
-**Why:** the gap at the top keeps the panels clear of the knuckles, and the 3 in. overhang drips water past the concrete.
+**Why:** the gap at the top keeps the panels clear of the knuckles and the taller parts of A, so the lid can swing past vertical, and the 3 in. overhang drips water past the concrete.
 
 ### 13. Attach the panels
 
@@ -185,7 +185,7 @@ Cut two 4 x 60 in. strips from the leftover EPDM. Lay one along each side rail s
 
 **You need:** I, E, sealant 11, Tapcons 1 x4
 
-Cut a 10 x 50 in. strip from the EPDM sheet. The top of the concrete header is a shelf about 3 in. deep under the siding. Run a bead of sealant along that shelf about 1 in. out from the siding, lay the flap's top edge into it pushed back against the siding, and lay E flat on top. Drill four holes straight down through E and at least 2 in. into the header, about 1 in. out from the siding, and drive the Tapcons. Let the flap drape over the front of the header, over the hinges and onto the panels by at least 3 in. Run a last bead of sealant along the front edge of E.
+Cut an 11 x 50 in. strip from the EPDM sheet. The top of the concrete header is a shelf about 3 in. deep under the siding. Run a bead of sealant along that shelf about 1 in. out from the siding, lay the flap's top edge into it pushed back against the siding, and lay E flat on top. Drill four holes straight down through E and at least 2 in. into the header, about 1 in. out from the siding, and drive the Tapcons. Let the flap drape over the front of the header, over the hinges and onto the panels by at least 3 in. Run a last bead of sealant along the front edge of E.
 
 **Why:** the header shelf catches everything that runs off the siding, and the flap turns it into a slide that carries that water over the hinge gap onto the panels instead of into the stairwell.
 
